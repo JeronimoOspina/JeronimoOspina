@@ -1,4 +1,3 @@
-
 # Hi there, I'm Jeronimo Lopez 👋
 
 ---
@@ -6,41 +5,71 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
 </p>
 
-🎓 **Academic Background**  
-- 🧑‍💻 Professional Technician in Computer Programming  
-- 🛠️ Vocational Technician in IT Systems Support  
-- 📊 Technologist in Systems Analysis and Programming  
-- 🎓 Currently pursuing a **Bachelor's Degree in Systems Engineering** at *Universidad Autónoma de Manizales*
+---
+
+## 👨‍💻 About Me
+
+Aspiring Junior Developer and current Systems Engineering student at *Universidad Autónoma de Manizales*. I have completed several technical degrees in programming and IT support, and I'm passionate about technology, gaming, and continuous learning. My goal is to contribute and grow in real-world development projects.
 
 ---
 
-## 👨‍🎓 About Me
+## 🎓 Academic Background
 
-I'm an 18-year-old student deeply passionate about technology, gaming, and continuous learning. My journey in tech began early, and I've completed several technical degrees and a technologist program, giving me a strong foundation in programming and IT systems.
+- Professional Technician in Computer Programming  
+- Vocational Technician in IT Systems Support  
+- Technologist in Systems Analysis and Programming  
+- Currently pursuing a **Bachelor's Degree in Systems Engineering**  
 
-I'm dedicated to becoming a Junior Developer and am actively expanding my skills in Python, JavaScript, backend development, and best practices in clean code and version control. I believe in the power of collaboration and open-source communities to drive innovation and personal growth.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript (main focus)
+- **Backend:** Planning to learn JavaScript (Node.js, Express) and Python soon
+- **Databases:** MySQL, SQLite (learning basics), planning to learn MongoDB
+- **Version Control:** Git & GitHub
+- **Other Tools:** Linux, VS Code
 
 ---
 
 ## 🌱 What I'm Learning
 
-- Python 🐍
-- JavaScript ✨
-- Git & GitHub 🔧
-- Backend programming (APIs, databases, server-side logic)
-- Object-oriented programming (OOP)
-- Clean code & version control best practices
+- JavaScript ✨ (main focus, both fundamentals and DOM manipulation)
+- HTML & CSS for responsive web design
+- Git & GitHub for version control and collaboration
+- Fundamentals of backend development (Node.js soon)
+- Basics of databases and planning to learn MongoDB
+- Object-oriented programming (OOP) principles
+- Clean code & best practices
 
 ---
 
-## 🤝 Let's Connect!
+## 🚩 Projects
 
-I'm eager to connect with fellow developers, contribute to open-source projects, and learn from the global tech community. Feel free to check out my repositories, suggest improvements, or reach out for collaboration opportunities.
+Check out my repositories to see what I'm working on!  
+Feel free to suggest improvements or collaborate.
+
+---
+
+## 💬 Languages
+
+- **Spanish:** Native
+- **English:** Intermediate
+
+---
+
+## 🤝 Soft Skills
+
+- Teamwork
+- Communication
+- Adaptability
+- Problem-solving
+- Continuous learning mindset
 
 ---
 
@@ -54,6 +83,3 @@ I'm eager to connect with fellow developers, contribute to open-source projects,
 ---
 
 > 🚀 "Learning never stops. Every line of code is a step forward!"
-
-
-
