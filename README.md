@@ -1,7 +1,3 @@
-<p align="center">
-  <!-- Pixel Art Example: Replace with your actual image path -->
-  <img src="assets/pixelart-jeronimo.png" width="120" alt="Jeronimo Lopez Pixel Art" />
-</p>
 
 # Hi there, I'm Jeronimo Lopez 👋
 
