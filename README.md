@@ -39,10 +39,10 @@ Aspiring Junior Developer and current Systems Engineering student at *Universida
 
 ## 🌱 What I'm Learning
 
-- JavaScript ✨ (main focus, both fundamentals and DOM manipulation)
+- Java
 - HTML & CSS for responsive web design
 - Git & GitHub for version control and collaboration
-- Fundamentals of backend development (Node.js soon)
+- Fundamentals of backend development
 - Basics of databases and planning to learn MongoDB
 - Object-oriented programming (OOP) principles
 - Clean code & best practices
